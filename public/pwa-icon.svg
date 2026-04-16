@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="MatchGrid">
+  <rect width="512" height="512" rx="96" fill="#0c0b09"/>
+  <path fill="#c4a574" d="M96 160h96v96H96zm160 0h96v96h-96zm160 0v96h-96v-96zM96 320h96v96H96zm160 0h96v96h-96zm160 0h96v96h-96z"/>
+</svg>
