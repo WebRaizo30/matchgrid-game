@@ -15,10 +15,10 @@ Swap tiles, clear matches, ride cascades, and progress through a long campaign �
 
 <br />
 
-[![Live demo](https://img.shields.io/badge/Live%20demo-open-111111?style=flat)](https://example.com)
+[![Live demo](https://img.shields.io/badge/Live%20demo-open-111111?style=flat)](https://matchgrid-game.vercel.app)
 [![X — @WebRaizo](https://img.shields.io/badge/X-%40WebRaizo-000000?style=flat&logo=x&logoColor=white)](https://x.com/WebRaizo)
 
-<sub>Replace `https://example.com` in the badge link with your deployed URL (Vercel, Netlify, GitHub Pages, …).</sub>
+<sub>Production: <a href="https://matchgrid-game.vercel.app">matchgrid-game.vercel.app</a> (Vercel).</sub>
 
 <br /><br />
 
@@ -242,7 +242,7 @@ To change how many stages are generated, adjust **`CAMPAIGN_LEVEL_COUNT`** in `c
 2. Connect the repo to your host (e.g. Vercel **Import Project**).
 3. **Build command:** `npm run build`  
    **Output directory:** `dist`
-4. Deploy, then update the **Live demo** badge at the top of this README with your public URL.
+4. Deploy. The **Live demo** badge at the top of this README points at the production URL (update it if the domain changes).
 
 No database or server runtime — the game runs entirely in the browser.
 
